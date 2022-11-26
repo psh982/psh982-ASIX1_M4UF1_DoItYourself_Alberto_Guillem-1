@@ -1,0 +1,49 @@
+h1{
+    text-align: center;
+    color: darkred;
+    text-decoration: underline overline;
+}
+h2{
+    text-decoration: underline;
+    color: darkblue;
+    text-align: center;
+    
+}
+.despacio{
+    padding: 2%;
+    border-style: solid;
+    border-radius: 1px;
+    text-align: center;
+}
+.primera{
+    padding: 2%;
+	border: solid red 3px;
+	border-radius: 2px;
+}
+.segunda{
+    padding: 2%;
+	border: solid yellow 3px;
+	border-radius: 2px;
+}
+.tercera{
+    padding: 2%;
+	border: solid darkblue 3px;
+	border-radius: 2px;
+}
+.cuarta{
+    padding: 2%;
+	border: 5px outset darkcyan;
+	border-radius: 2px;
+    
+}
+span{
+    font-weight: 500;
+    background-color: black;
+    color: white;
+}
+p {
+	font-family: Arial;
+}
+* {
+	font-family: courier;
+}
